@@ -1,0 +1,16 @@
+New log file opened at Fri Jul 22 17:27:56 CST 2016 by 7348@TWTPEN1002001SL
+Taking next connection to: 52821
+New client attempting to connect on port: 52822-52821
+  Address = /10.36.232.154:52821
+This client on port 52822 has uuid 8c8133e9-be31-4e87-b779-467cfbdf8f39 configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-8c8133e9-be31-4e87-b779-467cfbdf8f39
+Taking next connection to: 52821
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 52821
+Checking to see if clients are empty...
+No non-daemon clients connected after 3 min. Shutting down.
+Server socket thread exiting.
+0 clients open, will close them...
+All client sockets have been closed.
+Closing the 7348@TWTPEN1002001SL logs at Fri Jul 22 17:33:56 CST 2016, goodbye.
